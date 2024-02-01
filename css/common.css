@@ -1,0 +1,45 @@
+button {
+    border: none;
+    background: transparent;
+}
+
+h2 {
+    font-size: 40px;
+
+}
+
+.section {
+
+    overflow: hidden;
+
+    justify-content: start;
+
+}
+
+.tit {
+    margin: 100px 0 0 0;
+}
+
+
+.tit .txt_box {
+    text-align: center;
+    align-items: center;
+}
+
+.tit h2 {
+    vertical-align: middle;
+    margin: 0 auto 20px auto;
+}
+
+.tit figure {
+    display: inline-block;
+}
+
+.tit_caption {
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.icon {
+    padding: 0 8px 0 0;
+}
