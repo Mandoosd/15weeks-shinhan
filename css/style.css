@@ -968,7 +968,7 @@
 
     }
 
-    80% {
+    50% {
         opacity: 0;
         transform: translate(0, 100%);
     }
